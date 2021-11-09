@@ -1,0 +1,14 @@
+{
+  "name": "nadir-ai",
+  "version": "1.0.0",
+  "description": "AI implementation for Screeps",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "./deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
