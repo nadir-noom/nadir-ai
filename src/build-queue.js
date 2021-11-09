@@ -5,6 +5,7 @@ var seedQueue = [
     "harvester",
     "upgrader",
     "upgrader",
+    "builder",
     "scout"
 ]
 
